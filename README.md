@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
 <h3 align="center">I live in Georgia and work with Web Development.</h3>
 
-- 🔭 I’m currently working on [redberry-challenge](https://github.com/Davitamgl/redberry-challenge)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **TypeScript**
 
