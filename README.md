@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **JavaScript, React, Redux**
+- 💬 Ask me about **JavaScript, React, Laravel**
 
 - 📫 How to reach me **amaghlobeli.davit@gmail.com**
 
