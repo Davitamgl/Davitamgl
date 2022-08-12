@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davit</h1>
-<h3 align="center">I live in Georgia and work with Web Development.</h3>
+<h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **JavaScript, React, Laravel**
-
-- 📫 How to reach me **amaghlobeli.davit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
